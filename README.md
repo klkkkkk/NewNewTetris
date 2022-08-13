@@ -1,6 +1,10 @@
 # NewNewTetris
 基于纯C++控制台的包含3种全新模式的【新新俄罗斯方块】
 
+## 游戏截图
+![标题画面](https://github.com/klkkkkk/NewNewTetris/raw/master/resource/标题画面.png)
+![游戏截图](https://github.com/klkkkkk/NewNewTetris/raw/master/resource/游戏截图.png)
+
 ## 食用方法
 运行Game.exe。
 
